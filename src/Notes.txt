@@ -1,0 +1,10 @@
+1. tailwind css ko install karo 
+2.  npm i react-router-dom -> for react router ke liye
+3.  npm i axios -> for API ke liye
+4.  npm i react-player -> for playlist ke liye 
+5.  npm i react-infinite-scroller -> for infinite scroller
+6.  npm install @reduxjs/toolkit react-redux -> for redux
+7.  <link
+        href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+        rel="stylesheet"
+    /> -> for remix icon
