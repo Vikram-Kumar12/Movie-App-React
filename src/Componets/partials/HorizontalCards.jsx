@@ -14,7 +14,7 @@ function HorizontalCards({data}){
                             {(elem.original_title || elem.name || elem.title || elem.original_name)}
                         </h1>
                         <p className="mt-2 text-sm pl-1 ">
-                            {elem.overview.slice(0,50)}...<span className="text-zinc-500"> more</span>
+                            {elem.overview ? elem.overview.slice(0, 50) : "No description available"}...<span className="text-zinc-500"> more</span>
                         </p>
                     </div>
                 </Link>
